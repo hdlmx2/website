@@ -1,0 +1,28 @@
+.news_suggest {
+    float: left;
+    margin-top: 35px;
+    width: 220px;
+    height: 500px;
+    background-color: #0073bf;
+}
+
+.news_search {
+    float: left;
+    width: 220px;
+    height: 50px;
+    background-color: #FBC2C4;
+}
+
+.news_suggest_links{
+    float: left;
+    margin-top: 30px;
+    width: 220px;
+    height: 300px;
+    background-color: chartreuse;
+}
+.company_social{
+    float: left;
+    width: 220px;
+    height: 100px;
+    background-color: aqua;
+}
